@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=INITIATING+CONNECTION...;ACCESS+GRANTED:+SOUMESWXR%20神;SECURITY+RESEARCHER;REVERSE+ENGINEER;MALWARE+ANALYST">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Malware Developer...;16+y/o;INTJ-J;alt: @iv0kzxr;">
 </h1>
 
 <p align="center">
@@ -7,15 +7,14 @@
 </p>
 
 <p align="center">
-  <kbd><b>ESTABLISHING ENCRYPTED TUNNEL...</b></kbd>
+  <kbd><b>𝗦𝗢𝗨𝗠𝗘𝗦𝗪𝗔𝗥 神</b></kbd>
 </p>
 
 ---
 
 ## 📂 ABOUT_ME
 ```zsh
-> USER:         SOUMESWXR 神
-> OS: Arch Linux
+> USER:         𝗦𝗢𝗨𝗠𝗘𝗦𝗪𝗔𝗥 神
 ```
 ## 🧏‍♂️ I MOSTLY USE:
 <div align="center">
@@ -37,26 +36,24 @@
 </div>
 
 ## 💻 GitHub STATS:
-![](https://github-readme-stats.vercel.app/api?username=soumeswxr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=soumeswxr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=soumeswxr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sowwmmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sowwmmm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sowwmmm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🛠️ TOOLS
 ```
-root@soumeswxr:~# cat TOOLS
+root@sowwmmm:~# cat made_by_me.md
 ——————————————————————————————
-└── 💀 Tools
-     ├── AnonChat
+└── 💀 Made by Me
+     ├── ZeroIdentity
      └── JohanBot
+     └── AnonChat (discontinued, RicoChet Refresh alternative for Android)
 ——————————————————————————————
 ```
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=SOUMESWXR%20神&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=black&height=300&section=header&text=𝗦𝗢𝗨𝗠𝗘𝗦𝗪𝗔𝗥+神&fontSize=90" />
 </p>
 <p>
-<img src="https://komarev.com/ghpvc/?username=soumeswxr" />
+<img src="https://komarev.com/ghpvc/?username=sowwmmm" />
 </p>
-
-## JOIN OUR GANG 
-[𓆩☠︎︎𓆪 SEKAI 神](https://discord.gg/UprTZqgb5g)
