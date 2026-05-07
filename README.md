@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00FF00&center=true&vCenter=true&width=900&lines=𝗦𝗢𝗨𝗠𝗘𝗦𝗪𝗔𝗥+神;Malware+Developer;16+y%2Fo;INTJ-J;alt:+@iv0kzxr"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=𝗦𝗢𝗨𝗠𝗘𝗦𝗪𝗔𝗥+神;Malware+Developer;16+y%2Fo;INTJ-J;alt:+@iv0kzxr"
     alt="Typing SVG"
   />
 </h1>
